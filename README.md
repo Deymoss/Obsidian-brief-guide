@@ -1,14 +1,20 @@
-# Obsidian-brief-guide
-Кракткий гайд из моих знаний по обсидиану
+# OКракткий гайд из моих знаний по обсидиану
+
+Обсидиан строится на плагинах, поэтому в целом обзора их хватит, чтобы сделать его под свой вкус
+
 #### Внешний вид моего обсидиана:
 <img width="1914" height="1153" alt="image" src="https://github.com/user-attachments/assets/aad459db-3552-47da-b043-9c3f2d377083" />
 
 Тема: Obsidian Gruvbox
-Чтобы сделать слева разноцветную панель, я применил CSS Snippet найти это можно в настройках во вкладке Appearance
+
+Чтобы сделать слева разноцветную панель, я применил CSS Snippet найти это можно в настройках во вкладке Appearance, сам сниппет в репозитории лежит
 
 <img width="803" height="109" alt="image" src="https://github.com/user-attachments/assets/56ea0acf-da02-4ff3-89c7-255a0cf83e9f" />
 
+Он должен лежать по пути \{Vault}\.obsidian\snippets
+
 ### Community плагины которые у меня задействованы:
+
 **Calendar by Lian Caim** - удобен тем, что можно нажав на дату, открыть заметку по этой дате, если она создавалась
 
 <img width="363" height="291" alt="image" src="https://github.com/user-attachments/assets/6896db0a-b4fb-4421-9d31-1323118b9e62" />
@@ -37,6 +43,27 @@
 
 
 ## Core plugins
+
 Лень каждый описывать, они есть по дефолту, надо глянуть и включить нужные, вот какие включил я
 
 <img width="222" height="289" alt="image" src="https://github.com/user-attachments/assets/55d0db7f-84af-4946-b924-2aff74d209af" />
+
+## Граф и связи
+
+Граф, это удобный инструмент навигации, выглядит следующим образом
+
+<img width="1241" height="1114" alt="image" src="https://github.com/user-attachments/assets/fe34a899-7d73-4e90-b4b2-64f69c08e45e" />
+
+Все документы сами на нём появляются при создании
+
+Чтобы создать связь, нужно в одном документе прикрепить специальную ссылку на другой
+
+синтаксис ссылки
+
+<img width="787" height="230" alt="image" src="https://github.com/user-attachments/assets/2612346c-f041-488a-a1a0-9e538f7f50ea" />
+
+Как выглядит:
+
+<img width="611" height="473" alt="image" src="https://github.com/user-attachments/assets/e1b8706c-53d3-4496-ab5e-3653397cf92a" />
+
+
