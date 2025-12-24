@@ -33,7 +33,7 @@
 
 **Tasks** - Ищет везде синтаксис тасок (- [ ] Something non-important, with no date), и собирает их в одном месте, где можно отслеживать выполнение, глянуть можно подробнее тут https://github.com/obsidian-tasks-group/obsidian-tasks
 
-**Templater** - С помощью этого плагина можно строить темплейты, которые можно юзать например, чтобы создать daily note с нужной структурой, пример:
+**Templater** - С помощью этого плагина можно строить темплейты, которые можно юзать, например, чтобы создать daily note с нужной структурой, пример:
 
 <img width="256" height="132" alt="image" src="https://github.com/user-attachments/assets/91fe9d38-ec03-4e3f-a261-56db47f79ca2" /> <img width="298" height="513" alt="image" src="https://github.com/user-attachments/assets/b5b57e4c-291c-493c-a190-02d5e17dcb00" />
 
